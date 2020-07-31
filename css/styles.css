@@ -1,0 +1,42 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  background-color: note;
+  border-color: gray;
+  border-style: dotted none none none;
+  border-top-width: 8px;
+  height: 0px;
+  width: 7%
+}
+
+h1{
+  font-family: sans-serif;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: sans-serif;
+  color: #66BFBF;
+}
+
+p{
+  font-family:monospace;
+  font-size: 15px;
+}
+
+table{
+  font-family:monospace;
+  font size: 15px;
+}
+
+ul{
+  font-family:monospace;
+  font size: 18pt;
+}
+
+li{
+  font-family:monospace;
+  font size: 18pt;
+}
